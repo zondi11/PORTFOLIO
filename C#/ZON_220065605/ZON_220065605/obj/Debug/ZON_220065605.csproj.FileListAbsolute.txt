@@ -1,0 +1,6 @@
+C:\Users\exampmb013\Downloads\ZON_220065605\ZON_220065605\bin\Debug\ZON_220065605.exe.config
+C:\Users\exampmb013\Downloads\ZON_220065605\ZON_220065605\bin\Debug\ZON_220065605.exe
+C:\Users\exampmb013\Downloads\ZON_220065605\ZON_220065605\bin\Debug\ZON_220065605.pdb
+C:\Users\exampmb013\Downloads\ZON_220065605\ZON_220065605\obj\Debug\ZON_220065605.csprojResolveAssemblyReference.cache
+C:\Users\exampmb013\Downloads\ZON_220065605\ZON_220065605\obj\Debug\ZON_220065605.exe
+C:\Users\exampmb013\Downloads\ZON_220065605\ZON_220065605\obj\Debug\ZON_220065605.pdb
